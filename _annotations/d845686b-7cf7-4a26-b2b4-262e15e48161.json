@@ -1,0 +1,33 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Helicopter landing pad?",
+            "purpose": "commenting",
+            "creator": {
+                "id": "respinos",
+                "name": "Roger Espinosa"
+            },
+            "created": "2021-05-26T15:24:52.536Z",
+            "modified": "2021-05-26T15:24:55.292Z"
+        }
+    ],
+    "target": {
+        "source": "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"4679.0234375,2669.373046875 5289.1845703125,2645.350830078125 5553.427734375,3178.641357421875 5442.92626953125,3721.540771484375 4827.96044921875,3894.499755859375 4366.736328125,3562.994873046875 4371.54052734375,2972.05126953125\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://d.lib.ncsu.edu/collections/catalog/mc00084-001-te0159-000-001_0001/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/d845686b-7cf7-4a26-b2b4-262e15e48161.json"
+}
